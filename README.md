@@ -1,0 +1,2 @@
+# bestdiscordbot
+Best discord bot.
